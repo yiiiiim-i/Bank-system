@@ -107,7 +107,7 @@ typedef struct tag_TransferRespond{
 
 void mmenu(void) 
 {
-	printf ("***欢迎来到中国银行***\n");
+	printf ("***欢迎来到矿大校园银行***\n");
 	printf ("      1. 开户         \n");
 	printf ("      2. 销户         \n");
 	printf ("      3. 存款         \n");
